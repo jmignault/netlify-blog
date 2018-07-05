@@ -2,6 +2,9 @@ backend:
   name: git-gateway
   repo: jmignault/netlify-blog
   branch: master
+  accept_roles:
+    - admin
+    - editor
   site_domain: compassionate-boyd-10533a.netlify.com
 media_folder: "images/uploads"
 collections:
