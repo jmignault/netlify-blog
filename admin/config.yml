@@ -1,11 +1,8 @@
 backend:
-  name: git-gateway
+  name: github
   repo: jmignault/netlify-blog
   branch: master
   site_domain: compassionate-boyd-10533a.netlify.com
-
-publish-mode: editorial_workflow
-
 media_folder: "images/uploads"
 collections:
   - name: "post" # Used in routes, e.g. /admin/collections/blog
