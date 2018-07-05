@@ -1,5 +1,5 @@
 backend:
-  name: github
+  name: git-gateway
   repo: jmignault/netlify-blog
   branch: master
   site_domain: compassionate-boyd-10533a.netlify.com
